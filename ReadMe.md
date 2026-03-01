@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently perusing degree it and working on affiliate website<br>
+Hi! I’m Giorgi, a third-year IT student from Georgia. I’m passionate about coding and constantly learning new technologies. Currently, I work with C++/C#, Python, JavaScript, HTML, CSS, PHP, and SQL. I enjoy building projects that help me grow as a developer and exploring both web development and data-driven applications.<br>
 
 
 ## 🌐 Socials:
